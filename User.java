@@ -5,7 +5,7 @@ import java.sql.Timestamp;
 import id.co.nds.beans.BasicUser;
 
 public class User extends BasicUser {
-
+//ini testing
 	private String groupName;
 	private String actionType;
 	private String captcha;
