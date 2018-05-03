@@ -5,9 +5,10 @@ import java.sql.Timestamp;
 import id.co.nds.beans.BasicUser;
 
 public class User extends BasicUser {
-	
-	purvate String KU_TAK_TAHU_INI_APA;
 
+  private String KU_TAK_TAHU_INI_APA;
+	private String help;
+  // INI EDIT DEVELOPER
 	private String groupName;
 	private String actionType;
 	private String captcha;
