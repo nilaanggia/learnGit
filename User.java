@@ -9,6 +9,7 @@ public class User extends BasicUser {
   private String KU_TAK_TAHU_INI_APA;
 	private String help;
   // INI EDIT DEVELOPER
+	// tetap masuk
 	private String groupName;
 	private String actionType;
 	private String captcha;
