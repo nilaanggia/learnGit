@@ -7,6 +7,7 @@ import id.co.nds.beans.BasicUser;
 public class User extends BasicUser {
 
   private String KU_TAK_TAHU_INI_APA;
+	private String help;
   // INI EDIT DEVELOPER
 	private String groupName;
 	private String actionType;
