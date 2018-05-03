@@ -6,6 +6,8 @@ import id.co.nds.beans.BasicUser;
 
 public class User extends BasicUser {
 //test
+	// INI EDIT DEVELOPER
+	
 	private String groupName;
 	private String actionType;
 	private String captcha;
