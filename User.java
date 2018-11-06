@@ -12,6 +12,7 @@ public class User extends BasicUser {
 	private Timestamp lastFailedPassword;
 	private Integer failedPasswordCounter;
 	private Timestamp verifyDate;
+	private String dataTEsting;
 	
 
 	public String getCaptcha() {
